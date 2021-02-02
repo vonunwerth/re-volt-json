@@ -1,10 +1,10 @@
 {
   "name": "Maxis-Repo",
-  "version": "0.0.1",
+  "version": "0.1",
   "packages": {
     "market-mayhem-pack": {
       "description": "Test pack containing market mayhem",
-      "version": "0.0.1",
+      "version": "0.1",
       "url": "https://www.dropbox.com/s/d1l6hum527r50b7/marketmayhem.zip?dl=1",
       "file": "marketmayhem.zip"
     }
