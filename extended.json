@@ -11,7 +11,9 @@
    },
    "events":{
       "eventno1":{
-         "description":"My first event"
+         "title":"My first event",
+         "date":"2020-02-02",
+         "hosts":"192.168.178.25"
       }
    }
 }
