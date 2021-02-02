@@ -12,8 +12,8 @@
    "events":{
       "eventno1":{
          "title":"My first event",
-         "date":"2020-02-02",
-         "hosts":"192.168.178.25"
+         "date":"07-02-2021 18:00",
+         "hosts": {"Max":"192.168.178.25"}
       }
    }
 }
