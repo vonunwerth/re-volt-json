@@ -2,12 +2,12 @@
    "name":"Maxis-Event-Repo-2",
    "version":"0.1",
    "events":{
-   "eventno1":{
+   "eventno1cool":{
          "title":"Cool event 1",
          "date":"07-02-2021 18:00",
          "hosts": {"Max":"192.168.178.20", "Wusel":"192.168.178.2"}
       },
-      "eventno2":{
+      "eventno2cool":{
          "title":"Very cool event 1",
          "date":"07-02-2021 19:00",
          "hosts": {"Max":"192.168.178.20", "Wusel":"192.168.178.2"}
