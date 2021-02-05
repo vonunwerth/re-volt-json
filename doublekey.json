@@ -1,0 +1,16 @@
+{
+   "name":"Maxis-Event-Repo-3",
+   "version":"0.1",
+   "events":{
+   "eventno1":{
+         "title":"event 1 double",
+         "date":"07-02-2021 17:00",
+         "hosts": {"Max":"192.164.178.20", "Wusel":"192.168.178.2"}
+      },
+      "eventno1":{
+         "title":"event 1 double",
+         "date":"07-02-2021 19:00",
+         "hosts": {"Max":"192.168.178.20", "Wusel":"192.168.178.2"}
+      }
+   }
+}
