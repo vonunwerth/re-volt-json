@@ -16,7 +16,8 @@
          "hosts": {"Max":"192.168.178.1"},
          "category": "Casual",
          "mode":"Race",
-         "class":"Semi-Pro"
+         "class":"Semi-Pro",
+         "url":"https://github.com/vonunwerth/re-volt-json/tree/main"
       }
    }
 }
