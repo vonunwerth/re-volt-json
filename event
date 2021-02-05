@@ -1,0 +1,11 @@
+{
+   "name":"Maxis-Event-Repo",
+   "version":"0.1",
+   "events":{
+      "eventno1":{
+         "title":"My first event",
+         "date":"07-02-2021 18:00",
+         "hosts": {"Max":"192.168.178.25", "Wusel":"192.168.178.255"}
+      }
+   }
+}
