@@ -1,0 +1,24 @@
+{
+   "name":"Maxis-Full-Repo",
+   "version":"0.5",
+   "packages":{
+      "market-mayhem-pack-2":{
+         "description":"Test pack containing market mayhem",
+         "version":"0.4",
+         "url":"https://www.dropbox.com/s/d1l6hum527r50b7/marketmayhem.zip?dl=1",
+         "file":"marketmayhem.zip"
+      }
+   },
+   "events":{
+      "eventno1":{
+         "title":"Fullspeed!",
+         "description":"Really cool event only for cool guys, racing on cool tracks with cool cars..."
+         "date":"07-02-2022 15:00",
+         "hosts": {"Max":"192.168.178.1"},
+         "category": "Casual",
+         "mode":"Race",
+         "class":"Semi-Pro",
+         "url":"https://github.com/vonunwerth/re-volt-json/tree/main"
+      }
+   }
+}
