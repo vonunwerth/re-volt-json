@@ -2,7 +2,7 @@
    "name":"Maxi Stock repo",
    "version":"0.6",
    "packages":{
-      "stock-tracks":{
+      "levels":{
          "description":"Test pack containing the stock tracks",
          "version":"1.0",
          "url":"https://www.dropbox.com/s/h3b5f1dvvca3w0b/levels.zip?dl=1",
