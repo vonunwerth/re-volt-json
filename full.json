@@ -1,13 +1,12 @@
 {
-   "name":"Maxis-Full-Repo",
+   "name":"Stock tracks",
    "version":"0.5",
    "packages":{
       "market-mayhem-pack-2":{
          "description":"Test pack containing market mayhem",
-         "version":"0.4",
-         "url":"https://www.dropbox.com/s/d1l6hum527r50b7/marketmayhem.zip?dl=1",
-         "file":"marketmayhem.zip",
-         "checksum":"02c83be5b31f1d72f65c20e931225de80ec798e06edfdf179028c7cb13422696"
+         "version":"1.0",
+         "url":"https://www.dropbox.com/s/h3b5f1dvvca3w0b/levels.zip?dl=1",
+         "file":"levels.zip"
       }
    },
    "events":{
