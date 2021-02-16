@@ -1,12 +1,13 @@
 {
-   "name":"Stock tracks",
-   "version":"0.5",
+   "name":"Maxi Stock repo",
+   "version":"0.6",
    "packages":{
-      "market-mayhem-pack-2":{
-         "description":"Test pack containing market mayhem",
+      "stock-tracks":{
+         "description":"Test pack containing the stock tracks",
          "version":"1.0",
          "url":"https://www.dropbox.com/s/h3b5f1dvvca3w0b/levels.zip?dl=1",
-         "file":"levels.zip"
+         "file":"levels.zip",
+         "checksum":"bf3720d6434cff822cb438b3fcdedc3fd7544c571a4da12e003c8e840385f7f8"
       }
    },
    "events":{
