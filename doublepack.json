@@ -1,0 +1,18 @@
+{
+  "name": "Maxis-Repo",
+  "version": "21.0216",
+  "packages": {
+    "Market Mayhem Pack": {
+      "description": "Test pack containing market mayhem",
+      "version": "21.0216",
+      "url": "https://www.dropbox.com/s/d1l6hum527r50b7/marketmayhem.zip?dl=1",
+      "file": "marketmayhem.zip"
+    },
+    "Market Mayhem Pack2": {
+      "description": "Test pack 2 containing market mayhem",
+      "version": "21.0216",
+      "url": "https://www.dropbox.com/s/d1l6hum527r50b7/marketmayhem.zip?dl=1",
+      "file": "marketmayhem.zip"
+    }
+  }
+}
